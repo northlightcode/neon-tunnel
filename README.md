@@ -1,5 +1,8 @@
 # 🚀 Neon Tunnel
 
+![GitHub release](https://img.shields.io/github/release/northlightcode/neon-tunnel)
+![GitHub downloads](https://img.shields.io/github/downloads/northlightcode/neon-tunnel/total)
+
 **Free Windows App for Secure Network Tunneling**
 
 ---
