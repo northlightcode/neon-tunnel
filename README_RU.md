@@ -2,7 +2,11 @@
 
 **Бесплатное Windows-приложение для безопасного сетевого туннелирования**
 
-[![Telegram](https://img.shields.io/badge/Telegram-channel-blue)](https://t.me/N30Ntunnel)
+[![Platform](https://img.shields.io/badge/Platform-Windows-blue.svg)](https://www.microsoft.com/windows)
+[![Version](https://img.shields.io/badge/Version-1.0.0_beta-orange.svg)](https://github.com/northlightcode/neon-tunnel/releases)
+[![Telegram](https://img.shields.io/badge/Telegram-Join-blue.svg)](https://t.me/N30Ntunnel)
+![GitHub release](https://img.shields.io/github/release/northlightcode/neon-tunnel)
+![GitHub downloads](https://img.shields.io/github/downloads/northlightcode/neon-tunnel/total)
 
 ---
 
