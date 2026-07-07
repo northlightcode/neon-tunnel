@@ -1,6 +1,6 @@
 # 🚀 Neon Tunnel
 
-**Free Windows Application for Secure Network Tunneling**
+**Free Windows App for Secure Network Tunneling**
 
 ---
 
