@@ -1,7 +1,6 @@
 # 🚀 Neon Tunnel
 
 [![Platform](https://img.shields.io/badge/Platform-Windows-blue.svg)](https://www.microsoft.com/windows)
-[![License](https://img.shields.io/badge/License-Free-green.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-1.0.0_beta-orange.svg)](https://github.com/northlightcode/neon-tunnel/releases)
 [![Telegram](https://img.shields.io/badge/Telegram-Join-blue.svg)](https://t.me/N30Ntunnel)
 
@@ -546,7 +545,8 @@ Have an idea? Suggest it in our [Discussions](https://github.com/northlightcode/
 
 ## 📄 License
 
-This project is free to use. See the [LICENSE](LICENSE) file for details.
+This is proprietary software. All rights reserved. 
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
