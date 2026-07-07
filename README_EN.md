@@ -3,7 +3,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows-blue.svg)](https://www.microsoft.com/windows)
 [![License](https://img.shields.io/badge/License-Free-green.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-1.0.0_beta-orange.svg)](https://github.com/northlightcode/neon-tunnel/releases)
-[![Telegram](https://img.shields.io/badge/Telegram-Join-blue.svg)](https://t.me/N30Ntunnel))
+[![Telegram](https://img.shields.io/badge/Telegram-Join-blue.svg)](https://t.me/N30Ntunnel)
 
 **Free Windows Application for Secure Network Tunneling**
 
