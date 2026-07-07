@@ -290,6 +290,7 @@ A: This is a protection system against attempts to study the application's opera
 ---
 
 #### 📸 Screenshot 2: Sandbox Behavior Analysis
+<img width="1280" height="1058" alt="image" src="https://github.com/user-attachments/assets/0b9210b2-2d41-443f-80ec-32b9bbd4ad84" />
 
 **What we see:**
 - **Detections:** NOT FOUND — no malicious behavior detected
@@ -312,6 +313,7 @@ The program can delete its traces after operation. This is **important for secur
 ---
 
 #### 📸 Screenshot 3: Detailed Behavior Analysis
+<img width="1280" height="1058" alt="image" src="https://github.com/user-attachments/assets/fa1aa1bf-99fd-44b2-86d9-936095bb61e7" />
 
 **What we see:**
 - **Malware Behavior Catalog Tree** — list of behavior categories
@@ -331,6 +333,7 @@ These "suspicious" categories are actually **privacy protection features** desig
 ---
 
 #### 📸 Screenshot 4: File System and Memory
+<img width="1280" height="1053" alt="image" src="https://github.com/user-attachments/assets/c08a0481-79d2-4471-aa22-bc3f632fa039" />
 
 **What we see:**
 - **Memory Pattern Domains:** github.com, jsoftware.org, innosetup.com
@@ -349,6 +352,7 @@ This is a sign of **InnoSetup installer** — a popular and safe tool for creati
 ---
 
 #### 📸 Screenshot 5: Windows Registry
+<img width="1280" height="1061" alt="image" src="https://github.com/user-attachments/assets/e47004ce-fdfe-41ef-958b-ff520bceae6d" />
 
 **What we see:**
 - **Registry Keys Opened:** reading theme settings, localization
@@ -365,6 +369,7 @@ The program did **NOT** attempt to:
 ---
 
 #### 📸 Screenshot 6: Processes and Services
+<img width="1280" height="1043" alt="image" src="https://github.com/user-attachments/assets/779b74cd-465b-4574-bab8-d7cc0df0e467" />
 
 **What we see:**
 - **Processes Created:** installer launch and standard Windows services
@@ -377,6 +382,7 @@ The program did **NOT** create suspicious processes or launch hidden services. *
 ---
 
 #### 📸 Screenshot 7: Loaded Modules
+<img width="1280" height="1045" alt="image" src="https://github.com/user-attachments/assets/aa2c77fc-ec0e-4b73-aa01-ae621abccab2" />
 
 **What are modules (DLL)?**  
 These are code libraries that programs use to operate. For example, for displaying windows, working with the network, etc.
@@ -508,33 +514,6 @@ A: No, the application automatically detects game processes and applies optimal 
 
 ---
 
-## 🔐 Security Analysis
-
-### VirusTotal Report Summary
-
-**Overall Scan Result:**
-- **Detection Rate:** 1/68 (only 1 antivirus out of 68 detected something)
-- **Community Rating:** 1 (low risk)
-- **File Size:** 74.17 MB
-- **Status:** ✅ SAFE
-
-**Behavior Analysis:**
-- ❌ No malicious behavior detected
-- ❌ No password stealing attempts
-- ❌ No unauthorized server connections
-- ❌ No critical system changes
-- ❌ No hidden components installed
-
-**Technical Details:**
-- **Obfuscation:** Code protection against reverse engineering
-- **Self-delete:** Ability to remove traces after operation (privacy feature)
-- **Network Activity:** Only connects to api.github.com (legitimate)
-- **System Changes:** Standard Windows installer behavior only
-
-> **Conclusion:** NeonTunnel is safe to use. All security flags are related to privacy protection features, not malicious activity.
-
----
-
 ## 🔄 Updates
 
 ### Automatic Updates
@@ -591,6 +570,7 @@ Special thanks to:
 <div align="center">
 
 **Made with ❤️ for privacy and freedom**
+<img width="1280" height="778" alt="image" src="https://github.com/user-attachments/assets/f34efe95-27ac-4e28-95a2-8bb35318e114" />
 
 [⬆ Back to top](#-neon-tunnel)
 
