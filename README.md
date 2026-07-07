@@ -7,7 +7,7 @@
 ## 🌐 Choose your language / Выберите язык
 
 - 🇬🇧 [English Documentation](README_EN.md)
-- 🇺 [Русская документация](README_RU.md)
+- RU [Русская документация](README_RU.md)
 
 ---
 
