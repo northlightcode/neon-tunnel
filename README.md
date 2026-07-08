@@ -7,11 +7,11 @@
 
 ---
 
-##  Quick Start
+##  Quick Start / Быстрый старт
 
-1. Download the latest version from [Releases](https://github.com/northlightcode/neon-tunnel/releases)
-2. Run `NeonTunnel-Setup.exe`
-3. Import your server and activate protection
+1. Download the latest version from [Releases](https://github.com/northlightcode/neon-tunnel/releases) / Загрузите последнюю версию с сайта [Releases](https://github.com/northlightcode/neon-tunnel/releases)
+2. Run `NeonTunnel-Setup.exe` / Запустите `NeonTunnel-Setup.exe`
+3. Import your server and activate protection / Импортируйте свой сервер и активируйте защиту
 
 ## 🌐 Choose your language / Выберите язык
 
