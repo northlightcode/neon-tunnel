@@ -17,7 +17,6 @@
 - [Installation](#-installation)
 - [Quick Start](#-quick-start)
 - [Operating Modes](#-operating-modes)
-- [Settings](#-settings-and-personalization)
 - [FAQ](#-frequently-asked-questions-faq)
 - [Troubleshooting](#-troubleshooting)
 - [Security](#-security-analysis)
@@ -102,6 +101,8 @@ Built-in protection system against attempts to study the application's operation
 - 🌿 Blue → Green (calm)
 - 🌸 Purple → Pink (retro-synthwave)
 - 🎨 Or create your own combination
+
+<img width="400" height="220" alt="photo_2026-07-08_16-18-27" src="https://github.com/user-attachments/assets/9d2efe49-a22d-425f-b8c0-efafafe080cc" /> <img width="400" height="220" alt="photo_2026-07-08_16-25-54" src="https://github.com/user-attachments/assets/878a1814-5128-4391-b163-cffac7549b7b" />
 
 ---
 
