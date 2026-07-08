@@ -7,6 +7,12 @@
 
 ---
 
+##  Quick Start
+
+1. Download the latest version from [Releases](https://github.com/northlightcode/neon-tunnel/releases)
+2. Run `NeonTunnel-Setup.exe`
+3. Import your server and activate protection
+
 ## 🌐 Choose your language / Выберите язык
 
 - 🇬🇧 [English Documentation](README_EN.md)
@@ -21,12 +27,6 @@ Neon Tunnel is a modern VPN client for Windows that provides:
 - 🎮 Game optimization mode
 - 🛡 DPI bypass protection
 - 🎨 Customizable interface
-
-##  Quick Start
-
-1. Download the latest version from [Releases](https://github.com/northlightcode/neon-tunnel/releases)
-2. Run `NeonTunnel-Setup.exe`
-3. Import your server and activate protection
 
 ## 📄 License
 
