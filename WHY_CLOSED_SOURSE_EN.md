@@ -90,7 +90,7 @@ My closed code is the graphical interface, orchestration of these components, an
 
 ## What I Guarantee
 
-- The application is free — and will remain so. No subscriptions, no donations, no hidden payments.
+- The application is free — and will remain so. No subscriptions, no hidden payments.
 - No telemetry — verified by VirusTotal and any sniffer.
 - Open dependencies — Xray, sing-box, WinDivert, zapret — all can be verified.
 - Updates only through GitHub Releases — no third-party servers.
